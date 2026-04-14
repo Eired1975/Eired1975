@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Eired1975/Eired1975/main/github_header.png" alt="Arthur Sterling - Senior LLM Infrastructure & Quant AI Engineer Header">
+</p>
+
 # Hi, I'm Arthur Sterling 👋
 
 ### Senior LLM Infrastructure Engineer | Architecting scalable systems for large language models and quantitative AI applications | Driving innovation in distributed ML and high-performance computing.
@@ -8,7 +12,18 @@ I am a dedicated Senior LLM Infrastructure Engineer with a profound passion for 
 
 My work involves designing and implementing cutting-edge solutions that bridge the gap between theoretical AI advancements and practical, production-ready systems. I am a strong advocate for open-source contributions and believe in fostering a collaborative environment to accelerate AI innovation.
 
-## 🚀 Technical Stack & Expertise
+## 🚀 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Eired1975&show_icons=true&theme=dark&hide_border=true&rank_icon=percentile" alt="Arthur Sterling's GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eired1975&layout=compact&theme=dark&hide_border=true" alt="Arthur Sterling's Top Languages" />
+  </a>
+</p>
+
+## 🛠️ Technical Stack & Expertise
 
 | Category          | Technologies & Tools                                                                                             |
 | :---------------- | :--------------------------------------------------------------------------------------------------------------- |
